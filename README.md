@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 2: Trabalhando com middlewares
+  Desafio: Introdução ao SOLID
 </h3>
 
 <p align="center">“Para quem fica melhor a cada dia, ficar pronto é utopia”!</blockquote>
